@@ -1,0 +1,1 @@
+{"standConfig":[{"idBirds":[2,2,1,0,0],"standData":{"type":1,"numSlot":5},"side":-1},{"idBirds":[1,2,2,2,1],"standData":{"type":1,"numSlot":5},"side":1},{"idBirds":[1,0,0,0,1],"standData":{"type":1,"numSlot":5},"side":-1},{"idBirds":[],"standData":{"type":1,"numSlot":5},"side":1},{"idBirds":[],"standData":{"type":1,"numSlot":5},"side":-1}]}

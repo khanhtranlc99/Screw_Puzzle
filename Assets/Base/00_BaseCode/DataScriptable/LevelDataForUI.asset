@@ -1,0 +1,426 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cb1162dcf600c3428efb8ab065b9ad8, type: 3}
+  m_Name: LevelDataForUI
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDataBase
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: data
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[LevelDataNeeded, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 26
+    - Name: 
+      Entry: 7
+      Data: 1|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 1
+    - Name: description
+      Entry: 1
+      Data: MerryChristmas
+    - Name: goalPostCount
+      Entry: 3
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 2
+    - Name: description
+      Entry: 1
+      Data: Wednesday And Andi
+    - Name: goalPostCount
+      Entry: 3
+      Data: 12
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 3
+    - Name: description
+      Entry: 1
+      Data: Cinderella
+    - Name: goalPostCount
+      Entry: 3
+      Data: 17
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 4
+    - Name: description
+      Entry: 1
+      Data: Snow White And The 7 Dwarfs
+    - Name: goalPostCount
+      Entry: 3
+      Data: 21
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 5
+    - Name: description
+      Entry: 1
+      Data: Mysterious Forest
+    - Name: goalPostCount
+      Entry: 3
+      Data: 17
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 6
+    - Name: description
+      Entry: 1
+      Data: The Gigantic Turnip
+    - Name: goalPostCount
+      Entry: 3
+      Data: 23
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 7
+    - Name: description
+      Entry: 1
+      Data: Floating House
+    - Name: goalPostCount
+      Entry: 3
+      Data: 22
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 8
+    - Name: description
+      Entry: 1
+      Data: Little Red Riding Hood
+    - Name: goalPostCount
+      Entry: 3
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 9
+    - Name: description
+      Entry: 1
+      Data: The Three Little Pigs
+    - Name: goalPostCount
+      Entry: 3
+      Data: 35
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 10
+    - Name: description
+      Entry: 1
+      Data: The Tortoise and The Hare
+    - Name: goalPostCount
+      Entry: 3
+      Data: 28
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 11
+    - Name: description
+      Entry: 1
+      Data: Picnic In Jungle
+    - Name: goalPostCount
+      Entry: 3
+      Data: 26
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 12
+    - Name: description
+      Entry: 1
+      Data: The Crow And The Pitcher
+    - Name: goalPostCount
+      Entry: 3
+      Data: 27
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 13
+    - Name: description
+      Entry: 1
+      Data: A Classic Room
+    - Name: goalPostCount
+      Entry: 3
+      Data: 14
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 14|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 14
+    - Name: description
+      Entry: 1
+      Data: Jack And The Beanstalk
+    - Name: goalPostCount
+      Entry: 3
+      Data: 20
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 15|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 15
+    - Name: description
+      Entry: 1
+      Data: SnowDay
+    - Name: goalPostCount
+      Entry: 3
+      Data: 23
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 16|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 16
+    - Name: description
+      Entry: 1
+      Data: Peter Pan
+    - Name: goalPostCount
+      Entry: 3
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 17|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 17
+    - Name: description
+      Entry: 1
+      Data: The Flute Player and The Rabbits
+    - Name: goalPostCount
+      Entry: 3
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 18|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 18
+    - Name: description
+      Entry: 1
+      Data: Edifice
+    - Name: goalPostCount
+      Entry: 3
+      Data: 27
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 19
+    - Name: description
+      Entry: 1
+      Data: Garment Shop
+    - Name: goalPostCount
+      Entry: 3
+      Data: 25
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 20|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 20
+    - Name: description
+      Entry: 1
+      Data: Demon Hunting Queen
+    - Name: goalPostCount
+      Entry: 3
+      Data: 27
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 21|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 21
+    - Name: description
+      Entry: 1
+      Data: Waterfall
+    - Name: goalPostCount
+      Entry: 3
+      Data: 36
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 22|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 22
+    - Name: description
+      Entry: 1
+      Data: Alice In Wonderland
+    - Name: goalPostCount
+      Entry: 3
+      Data: 29
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 23|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 23
+    - Name: description
+      Entry: 1
+      Data: Let's Make Cake Together
+    - Name: goalPostCount
+      Entry: 3
+      Data: 34
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 24|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 24
+    - Name: description
+      Entry: 1
+      Data: Pinocchio
+    - Name: goalPostCount
+      Entry: 3
+      Data: 41
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 25|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 25
+    - Name: description
+      Entry: 1
+      Data: Puss in Boots
+    - Name: goalPostCount
+      Entry: 3
+      Data: 20
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 26|LevelDataNeeded, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 26
+    - Name: description
+      Entry: 1
+      Data: Princess Charm
+    - Name: goalPostCount
+      Entry: 3
+      Data: 41
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

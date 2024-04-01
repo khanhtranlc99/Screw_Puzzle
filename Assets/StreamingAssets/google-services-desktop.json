@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004591952684",
+    "project_id": "screwsort-puzzle",
+    "storage_bucket": "screwsort-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004591952684:android:4d9aa9f7aca16f32aff289",
+        "android_client_info": {
+          "package_name": "com.gks.crewsort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaHYT9mNxfHganSsafHkTLC21RYUJekI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
